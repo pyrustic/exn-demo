@@ -1,0 +1,103 @@
+
+# Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam faucibus turpis a orci sollicitudin, at congue mauris vestibulum. Nulla non eros sapien. Sed tincidunt ligula mi, et gravida purus luctus non.
+
+Click [here](home.exn) to open __Home.exn__
+
+Click [here](<BOTTOM>) to scroll to the bottom.
+
+Duis elit dolor, porta at ligula eget, congue dignissim risus. Nunc facilisis rhoncus ipsum, in varius enim dictum a. Vivamus et magna eget arcu posuere sollicitudin.
+
+
+@[Attachment Title 1][calc_image]
+& This is the *caption*
+
+[calc_image] assets/calc.png
+
+Morbi ut rhoncus tellus. %Aliquam finibus fringilla dui%, sit amet elementum erat consequat ut. Duis volutpat vel augue ac sagittis. Curabitur ullamcorper scelerisque dui nec blandit. Ut dictum quam neque, eu semper lacus pharetra et.
+
+***
+
+This is a link to [Wikipedia](https://wikipedia.org).
+This is the link of the project: [](https://github.com/pyrustic/exonote).
+Click this executable [link]({program:print_in_cli "Hello World !"}) to print "Hello World !" in the CLI.
+
+## Sub Header 2
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam sed ex fermentum, consequat nunc nec, molestie turpis. Duis pharetra viverra augue in dapibus. Aenean nibh justo, pharetra et elementum a, %%elementum eu mauris%%.
+
+Available emphasis modes:
+* ``code.text.here``
+* `monospace i text`,
+* ~strikethrough~,
+- *bold*,
+- _italic_
+- __underlined__
+- %notice%
+- %%warning%%
+    - this is a sub item
+        - a sub sub item 1
+        - a sub sub item 2
+        - a sub sub item 3
+    - another sub item
+
+
+***
+
+Praesent malesuada turpis lorem. Praesent varius velit nulla, id pulvinar enim molestie finibus. Proin at pellentesque ex. Sed orci risus, congue eu orci sit amet, imperdiet dapibus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse potenti.
+
+| col1 | col2 | column3
+| val1 | val2 | value3
+| val-A | val-B | value-C
+& ...
+
+Pellentesque vulputate tincidunt metus, nec fringilla dolor sodales in. Donec ut tempus risus. Etiam porta posuere condimentum. Fusce vehicula pretium est ut mollis. Pellentesque commodo bibendum neque, eu tincidunt ante tempus sit amet. 
+
+
+| Name | Age
+| Jack | 32
+| Luis | 34
+| Philomena | 45
+
+
+Donec scelerisque nibh a quam egestas vehicula. Suspendisse pharetra augue eget sapien volutpat, vitae tempor lorem sodales. Donec venenatis eget mi et dignissim.
+
+```python
+import random
+import this
+import that
+import something
+chance = random.randint(0, 10)
+print(chance)
+```
+
+## Multithreading and processes
+Nunc et tortor vitae velit tincidunt tincidunt. Duis auctor neque fermentum quam condimentum malesuada. Praesent tellus turpis, sodales non interdum sed, iaculis sagittis nibh. Mauris elementum posuere neque, vitae hendrerit dolor aliquet vel. 
+
+Example of attachment:
+@[Attachment Title 1][image_asset]
+& Description *this*
+
+Nullam ornare orci et nibh luctus, in ultrices magna dignissim. Mauris tristique facilisis magna, in faucibus elit imperdiet ut. Phasellus dictum nisi sed sodales porttitor. Sed fringilla felis eu eleifend interdum. Donec dapibus velit tempus feugiat vestibulum. Nullam at viverra sem. Suspendisse non sodales turpis, eu fringilla lacus.
+
+### Options and commands
+Pellentesque convallis hendrerit scelerisque. Pellentesque in est et eros viverra sagittis. Praesent non bibendum enim. Vivamus faucibus placerat nisi, ut cursus felis pulvinar nec. Suspendisse velit quam, sollicitudin a eleifend vel, molestie et ex. Proin sem lacus, convallis ullamcorper urna vel, bibendum efficitur tellus. Nullam sed libero vel libero eleifend hendrerit. 
+
+Ut sit amet viverra ipsum, nec dapibus metus. Donec tempus ipsum cursus accumsan facilisis. Nunc augue metus, porta ultrices viverra vitae, semper et tellus. Donec euismod augue non sagittis iaculis. Nunc sagittis mauris ac libero convallis scelerisque. Aenean interdum interdum mauris, non tempus nunc lacinia non. Ut laoreet, felis quis imperdiet lobortis, massa lorem consequat risus, sit amet mollis nibh orci quis eros.
+
+### Configurations components
+Nulla sodales cursus orci sit amet condimentum. Donec vestibulum ex et est tristique, id pellentesque ex placerat. Suspendisse malesuada orci at tincidunt dictum. Quisque in ex a nisl mattis blandit at sed sapien. 
+
+Nam eu dui erat. Donec urna ipsum, egestas eget ante ut, scelerisque accumsan lectus. Ut nec fringilla magna, ac molestie libero. Mauris a placerat dolor. Curabitur rutrum accumsan urna, sit amet consequat leo porta eu. 
+
+
+## Styles and Themes for the Interface
+ Nulla ac diam massa. Phasellus fermentum urna at massa vulputate feugiat. Cras bibendum accumsan lacus sed consectetur. In est neque, auctor in elementum nec, vulputate et nisl. Maecenas dictum ultrices ullamcorper. Duis finibus sed lorem facilisis dapibus. Donec imperdiet nibh luctus enim viverra bibendum. Curabitur et urna sed risus dignissim pretium eget non dolor.
+ 
+Ut maximus placerat dui nec maximus. Praesent auctor urna sed tellus ullamcorper, et iaculis metus vestibulum. Curabitur ut leo vitae metus hendrerit pulvinar. Maecenas pretium lacus a justo pellentesque, eu aliquet ante commodo. Nam ac dignissim nisi, non finibus nibh. Cras sit amet purus dapibus velit imperdiet aliquet.
+
+# Conclusion
+Nunc eget pretium magna. Curabitur feugiat turpis erat, vitae blandit urna congue ut. Praesent varius ante a ipsum accumsan, eget feugiat tellus fringilla. Suspendisse faucibus tincidunt massa, eget condimentum mauris aliquet a. Mauris convallis venenatis felis, vel fermentum lacus convallis et. Vivamus molestie orci leo, et venenatis risus condimentum scelerisque.
+
+Click [here](<TOP>) to go back to the top.
+
+

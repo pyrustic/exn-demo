@@ -1,0 +1,14 @@
+#. Welcome
+This is an _exonote_, a __plain old text file__, rendered by *Exn*, a lightweight Python package. The markup language used to write an _exonote_ is inspired by Markdown and rendered with Tkinter (the default GUI library for Python).
+
+***
+
+*Interactivity* can be added to an exonote by __embedding GUI programs__ written in Python with Tkinter. Additionally, all or part of an _exonote_ can be arbitrarily generated using __custom Python scripts__.
+
+${program:Calc}
+& Embedded Calculator
+
+To learn more about this project, please visit [](https://github.com/pyrustic/exn) !
+
+@[image](assets/img.png)
+& ${program:generate_caption}
